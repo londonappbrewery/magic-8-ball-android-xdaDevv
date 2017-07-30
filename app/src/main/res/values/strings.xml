@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="ask_then_click">Ask ....then CLICK</string>
+    <string name="magic_8_ball">Magic 8 Ball</string>
 </resources>
